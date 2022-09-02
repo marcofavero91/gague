@@ -26,7 +26,6 @@ h2 {
 p {
   font-family: 'Merriweather', serif;
   color: #ff5364;
-  padding: 0 40rem 0 40rem;
   font-size: 1rem;
   margin-top: 2rem;
   margin-bottom: 4rem;
@@ -68,23 +67,32 @@ hr {
   margin-top: 5rem;
   margin-bottom: 5rem;
 }
+.bio {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.aprontador {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.irmao {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .baby {
   max-width: 7rem;
-  float: left;
-  margin-left: 30rem;
 }
 
 .broders {
   max-width: 7rem;
-  float: right;
-  margin-right: 30rem;
+
 }
 
 .fim {
   font-size: 3rem;
   padding: 0 40rem 3rem 40rem;
-}
-.assinatura {
-
 }
